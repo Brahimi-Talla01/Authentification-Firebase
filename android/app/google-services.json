@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "810039408563",
+    "project_id": "authdemo-fabf4",
+    "storage_bucket": "authdemo-fabf4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810039408563:android:dc50cefa4205e1a80dbdc6",
+        "android_client_info": {
+          "package_name": "cm.graven.auth_demo.auth_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810039408563-97es2q25630hpv09os7m2q9oml2lel2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cm.graven.auth_demo.auth_demo",
+            "certificate_hash": "b9f23feb9da2a1605facc2f27b27e5458b98181a"
+          }
+        },
+        {
+          "client_id": "810039408563-gu5sslrjblpb68q5gg61ma672jugs35v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAfNMMe-t_7fU2una2DQerAckfPa8C1h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810039408563-gu5sslrjblpb68q5gg61ma672jugs35v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810039408563-auii0t7mkk1koes28ga0e8nh4tn7j7dc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cm.graven.authdemo.authDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
